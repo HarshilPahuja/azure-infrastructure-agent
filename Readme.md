@@ -28,3 +28,6 @@ An AI infrastructure agent built using:
 
 <img width="1600" height="934" alt="image" src="https://github.com/user-attachments/assets/c775fba6-f76f-4c42-8880-c55d7ec3d034" />
 
+<img width="1247" height="101" alt="image" src="https://github.com/user-attachments/assets/8ed06a3f-18ca-41a3-946b-0a1b71d3fe29" />
+
+
