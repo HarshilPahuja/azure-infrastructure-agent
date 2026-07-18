@@ -1,7 +1,4 @@
-from azure.identity import DefaultAzureCredential
+from azure_client import resource_client
 
-credential = DefaultAzureCredential()
-
-token = credential.get_token("https://management.azure.com/.default")
-
-print("Authenticated!")
+for rg in resource_client.resource_groups.list():
+    print(rg.name)
