@@ -23,3 +23,9 @@ An AI infrastructure agent built using:
 - List VMs
 - Stop/Start/Delete VMs
 - Multi-Agent Supervisor Architecture
+
+
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/1611a108-7478-4e6a-b74f-c80231ba7b54" />
+
+<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/92fd8319-0ada-4800-af95-3d8c2a365aeb" />
+
