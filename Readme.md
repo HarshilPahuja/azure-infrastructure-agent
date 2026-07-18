@@ -12,13 +12,12 @@ An AI infrastructure agent built using:
 ## Current Features
 
 - Remote MCP Server
-- hello() tool
+- Create Azure Resource Groups
 - Azure AI Foundry integration
 - Human approval before tool execution
 
 ## Next Milestones
 
-- Create Azure Resource Groups
 - Create Azure Virtual Machines
 - List VMs
 - Stop/Start/Delete VMs
