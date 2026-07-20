@@ -1,4 +1,11 @@
-from azure_client import resource_client
+# ✅ Create a resource group
 
-for rg in resource_client.resource_groups.list():
-    print(rg.name)
+# Create a resource group named DemoRG in Central India
+
+# ✅ List resource groups
+
+# List all my resource groups
+
+# ✅ Delete a resource group
+
+# Delete the resource group DemoRG
